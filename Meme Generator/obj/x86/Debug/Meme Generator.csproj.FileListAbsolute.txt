@@ -1,0 +1,27 @@
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Meme Generator.exe
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Meme Generator.pdb
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.MemeMaker.resources
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\Meme Generator.exe
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\Meme Generator.pdb
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\MemeGenerator.Properties.Resources.resources
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\Meme Generator\WindowsFormsApplication2\obj\x86\Debug\Meme Generator.exe
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\Meme Generator\WindowsFormsApplication2\obj\x86\Debug\Meme Generator.pdb
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\Meme Generator\WindowsFormsApplication2\bin\Debug\Meme Generator.exe
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\Meme Generator\WindowsFormsApplication2\bin\Debug\Meme Generator.pdb
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\Meme Generator\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\Meme Generator\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.MemeMaker.resources
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\Meme Generator\WindowsFormsApplication2\obj\x86\Debug\MemeGenerator.Properties.Resources.resources
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\Meme Generator\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\Meme Generator\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\Meme Generator\Meme Generator\obj\x86\Debug\Meme Generator.exe
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\Meme Generator\Meme Generator\obj\x86\Debug\Meme Generator.pdb
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\Meme Generator\Meme Generator\bin\Debug\Meme Generator.exe
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\Meme Generator\Meme Generator\bin\Debug\Meme Generator.pdb
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\Meme Generator\Meme Generator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\Meme Generator\Meme Generator\obj\x86\Debug\WindowsFormsApplication2.MemeMaker.resources
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\Meme Generator\Meme Generator\obj\x86\Debug\MemeGenerator.Properties.Resources.resources
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\Meme Generator\Meme Generator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\Meme Generator\Meme Generator\obj\x86\Debug\GenerateResource.write.1.tlog
